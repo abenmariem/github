@@ -16,7 +16,7 @@ public class Hello {
 		this.firstName = firstName;
 		this.lastName = lastName;
 	}
-	
+	// change A
 	public String getFirstName() {
 		return firstName;
 	}
