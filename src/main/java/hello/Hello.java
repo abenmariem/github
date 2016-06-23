@@ -17,6 +17,7 @@ public class Hello {
 		this.lastName = lastName;
 	}
 	// change A
+	// change B
 	public String getFirstName() {
 		return firstName;
 	}
